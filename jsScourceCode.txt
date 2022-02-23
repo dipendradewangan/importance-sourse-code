@@ -4,3 +4,5 @@ replace(/.*(\/|\\)/, '')
 isNaN() : this function is used to considering any charector is number or not
 
 charAt() : this function is used to find the any charector by their indexing number
+
+thank you
