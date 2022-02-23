@@ -12,6 +12,10 @@ git branch newBranch // for make new branch
 
 git checkout -b newBranch // for create and switch to new branch
 
+git branch -a // for checking branch list
+
 git checkout branchName // for switch to another branch
 
-git branch --delete branchName // for deleting any other branch
+git push origin --delete branchName // for deleting another branch in remote
+
+git branch -d branchName // for deleting another branch in local pc
