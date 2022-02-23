@@ -1,0 +1,15 @@
+git init //for initialize git folder 
+
+git add fileName/.  // for adding git 
+
+git commit -m "message"  // for commit
+
+git remote add origin "url of reposatory" // for select remote reposatory
+
+git push origin master // for push selected reposatory in master branch
+
+git checkout -b newBranch // for create and switch to new branch
+
+git checkout branchName // for switch to another branch
+
+git branch --delete branchName // for deleting any other branch
