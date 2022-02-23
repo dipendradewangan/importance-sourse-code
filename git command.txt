@@ -8,6 +8,8 @@ git remote add origin "url of reposatory" // for select remote reposatory
 
 git push origin master // for push selected reposatory in master branch
 
+git branch newBranch // for make new branch
+
 git checkout -b newBranch // for create and switch to new branch
 
 git checkout branchName // for switch to another branch
