@@ -1,5 +1,15 @@
-registry expression
+
+**************registry expression********************
+
 replace(/.*(\/|\\)/, '')
+var upper = /[A-Z]/g; // use for match (A to Z) in case sensetive
+var lower = /[a-z]/g; // use for match (a to z) in case sensetive
+var num = /[0-9]/g;  // use for match (0 to 9) in case sensetive
+var alpha = /[~|`|!|@|#|$|%|^|&|*|(|_|-|+|=]/g; // use for match written this line in as it is
+
+
+*********************************************************
+
 
 isNaN() : this function is used to considering any charector is number or not
 
