@@ -16,3 +16,22 @@ isNaN() : this function is used to considering any charector is number or not
 charAt() : this function is used to find the any charector by their indexing number
 
 thank you
+
+
+*********************************************************
+
+
+ARRAY METHODS
+Predefined functions for array are known as array methods
+
+1. join() : you can insert any string on the place of array comma at one time with the help of join()
+2. push() : you can add extra value in array with the help of push()
+3. pop() : you can remove the last value of array with the help of pop()
+4. shift() : you can remove the first value of array with the help of shift()
+5. unshift() : you can add the first memory block before array value with the help of unshift()
+6. splice() : you can replace or add in array : ex:- array.splice(start, deleteCount, item1, item2, itemN)
+7. concat() : you can add another array on this array
+8. slice() : you can slice this array
+
+
+*********************************************************
