@@ -40,8 +40,16 @@ Predefined functions for array are known as array methods
 Java Script predefined function for charcter code
 
 1. charCodeAt(‘character’)
+
 2. String.fromCharCode(code of character)
 
+
+*********************************************************
+typecasting
+
+1. parsetInt() : to convert float in int
+
+2. parseFloat() : to convert int in float
 
 
 *********************************************************
