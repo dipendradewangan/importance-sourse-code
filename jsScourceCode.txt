@@ -35,3 +35,13 @@ Predefined functions for array are known as array methods
 
 
 *********************************************************
+
+
+Java Script predefined function for charcter code
+
+1. charCodeAt(‘character’)
+2. String.fromCharCode(code of character)
+
+
+
+*********************************************************
