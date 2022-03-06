@@ -62,3 +62,7 @@ date and time
 
 *********************************************************
 
+time interval
+
+1. setInterval(function,time in milisecond)
+
