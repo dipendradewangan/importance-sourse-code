@@ -35,13 +35,6 @@ Predefined functions for array are known as array methods
 
 
 *********************************************************
-date and time 
-
-1. new Date() : defining new date in system time zone
-2. dateVariable.toLocaleTimeString() : for extracting time from new Date()
-
-*********************************************************
-
 
 
 Java Script predefined function for charcter code
@@ -60,3 +53,11 @@ typecasting
 
 
 *********************************************************
+
+date and time 
+
+1. new Date() : defining new date in system time zone
+2. dateVariable.toLocaleTimeString() : for extracting time from new Date()
+
+*********************************************************
+
