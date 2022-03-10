@@ -66,3 +66,11 @@ time interval
 
 1. setInterval(function,time in milisecond)
 
+*********************************************************
+
+for secured url
+
+1. history.pushState(null, null, "string");
+
+
+*********************************************************
