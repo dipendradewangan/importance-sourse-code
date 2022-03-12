@@ -78,3 +78,26 @@ for secured url
 for chenge ontent on webpage using webpage
 
 1. <tag contenteditable="true"></tag>
+
+*********************************************************
+Window object methods()
+
+1. window.alert()
+
+2. window.btoa() : convert a string to machine understandable
+Example  window.alert(btoa(“saurav”));
+
+3. window.atob() : convert encoded string to real string
+Example  window.alert(atob(variable_name));
+
+4. window.setInterval
+
+5. window.clearInterval()
+
+6. setTimeout();
+
+7. window.open(URL, name, specs)
+   URL = https://wapinstitute.com
+   name = _blank, _self, _parent
+   specs = width,height,top,left
+ 
