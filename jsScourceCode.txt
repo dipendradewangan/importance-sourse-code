@@ -101,7 +101,14 @@ Example  window.alert(atob(variable_name));
    URL = https://wapinstitute.com
    name = _blank, _self, _parent
    specs = width,height,top,left
+  
+
+                          ch-49 part 02
 
 8. window.getComputedStyle() : to return the style property of an element
 
 9. getPropertyValue() : to return the value of style property
+
+10. navigator.onLine : it is a bulean and it use to internet connect or not
+
+11 window.scrollBy(x-Direction, y-Direction) : it use for scroll accounding parameter values in pixle
