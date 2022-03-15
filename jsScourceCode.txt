@@ -80,6 +80,7 @@ for chenge ontent on webpage using webpage
 1. <tag contenteditable="true"></tag>
 
 *********************************************************
+
 Window object methods()
 
 1. window.alert()
@@ -100,4 +101,7 @@ Example  window.alert(atob(variable_name));
    URL = https://wapinstitute.com
    name = _blank, _self, _parent
    specs = width,height,top,left
- 
+
+8. window.getComputedStyle() : to return the style property of an element
+
+9. getPropertyValue() : to return the value of style property
