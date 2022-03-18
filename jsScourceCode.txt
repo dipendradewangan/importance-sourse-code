@@ -97,7 +97,7 @@ Example  window.alert(atob(variable_name));
 
 6. setTimeout();
 
-7. window.open(URL, name, specs)
+7. window.open(URL, name, specs)  ch-50 part 1
    URL = https://wapinstitute.com
    name = _blank, _self, _parent
    specs = width,height,top,left
@@ -112,3 +112,10 @@ Example  window.alert(atob(variable_name));
 10. navigator.onLine : it is a bulean and it use to internet connect or not
 
 11 window.scrollBy(x-Direction, y-Direction) : it use for scroll accounding parameter values in pixle
+
+
+*********************************************************
+
+window object property
+
+01. variable_name.match(argument) : to match any string or another things.
