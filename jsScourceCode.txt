@@ -119,3 +119,28 @@ Example  window.alert(atob(variable_name));
 window object property
 
 01. variable_name.match(argument) : to match any string or another things.
+
+*********************************************************
+
+Properties for video and audio element
+
+  1. duration : returns the full duration of video
+  2. currentTime : returns the current played duration of video
+  3. volume : returns volume of video
+
+ Event for current time of video and audio element
+
+  1. ontimeupdate
+
+ Method for video and audio element
+
+  1. play()
+
+ Method for video fullscreen
+    requestFullscreen() : for all latest version browser
+    webkitRequestFullscreen() : chrome/safari/opera
+    mozRequestFullscreen() : mozilla firefox
+    msRequestFullscreen() : internet explorer
+
+ formulla to return the video duration in percentage
+  (100/video.duration)*video.currentTime
