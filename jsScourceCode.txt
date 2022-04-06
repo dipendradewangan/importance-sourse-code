@@ -144,3 +144,40 @@ Properties for video and audio element
 
  formulla to return the video duration in percentage
   (100/video.duration)*video.currentTime
+
+
+*********************************************************
+
+                        ch-51 part 8
+
+  Media events and properties
+
+ To perform a task after the end of video use onended event
+onended
+
+ To perform a task during video played use onplay event
+onplay
+
+ To control the speed of media or return the speed of media use playbackRate property
+playbackRate
+
+ event.offsetX : to return event width
+
+ event.offsetY : to return event height
+
+ selector.offsetWidth : to return full width of an element
+
+ selector.offsetHeight : to return full height of an element
+
+
+
+*********************************************************
+                        ch-51 part 9
+
+    Audio and video element properties and events
+ networkState : return the network state of video and audio element
+ 0 : network empty – browser`s attentionhas not been paid to your video or audio element
+ 1 : network idle : browser has reached where your file situated
+ 2 : network loading : browser is downloading data
+ 3 : network no source : file not found
+ buffered : returns the buffering status
